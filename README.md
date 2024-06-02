@@ -1,1 +1,1 @@
-netcat x32 , x64
+Netcat High Sec
